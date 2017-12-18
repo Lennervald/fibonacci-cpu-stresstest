@@ -1,0 +1,16 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asleep": "^1.0.3",
+    "big-integer": "^1.6.26",
+    "express": "^4.16.2"
+  }
+}
